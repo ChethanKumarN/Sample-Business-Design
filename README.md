@@ -26,3 +26,4 @@
 ### License
 - [MIT] Copyright(Granja-Bienes)
 - MT:https://rem.mit-license.org/# Sample-Business-Domain
+# Sample-Business-Domain
